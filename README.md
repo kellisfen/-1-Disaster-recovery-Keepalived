@@ -11,10 +11,10 @@
 ### Решение
 
 #### Конфигурация Router1
-![Конфигурация Router1](Router1.png)
+![Конфигурация Router1](screen/Router1.png)
 
 #### Конфигурация Router2
-![Конфигурация Router2](Router2.png)
+![Конфигурация Router2](screen/Router2.png)
 
 ### Файл проекта Cisco Packet Tracer
 [Скачать файл проекта](hsrp_advanced+.pkt)
@@ -31,17 +31,17 @@
 ### Решение
 
 #### Начальное состояние кластера
-![Начальное состояние](start.png)
+![Начальное состояние](screen/start.png)
 
 #### Переключение сервера при остановке nginx
-![Переключение при остановке nginx](stop\ nginx.png)
+![Переключение при остановке nginx](screen/stop\ nginx.png)
 
 #### Конфигурация MASTER сервера
-![Конфигурация MASTER](master.png)
+![Конфигурация MASTER](screen/master.png)
 
 #### Конфигурация BACKUP сервера
-![Конфигурация BACKUP](backup.png)
+![Конфигурация BACKUP](screen/backup.png)
 
 #### Скрипт проверки состояния веб-сервера
-![Скрипт проверки](script.png)
+![Скрипт проверки](screen/script.png)
 
