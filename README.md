@@ -61,7 +61,7 @@
 ![Начальное состояние кластера](screen/start.png)
 
 #### Переключение сервера при остановке nginx
-![Переключение при остановке nginx](screen/stop\ nginx.png)
+![Переключение при остановке nginx](screen/stop%20nginx.png)
 
 </div>
 
