@@ -24,10 +24,10 @@
 <div align="center">
 
 #### Конфигурация Router1
-![Конфигурация Router1](screen/Router1.png)
+![Конфигурация Router1](images/Router1.png)
 
 #### Конфигурация Router2
-![Конфигурация Router2](screen/Router2.png)
+![Конфигурация Router2](images/Router2.png)
 
 </div>
 
@@ -58,10 +58,10 @@
 <div align="center">
 
 #### Начальное состояние кластера
-![Начальное состояние кластера](screen/start.png)
+![Начальное состояние кластера](images/start.png)
 
 #### Переключение сервера при остановке nginx
-![Переключение при остановке nginx](screen/stop%20nginx.png)
+![Переключение при остановке nginx](images/stop%20nginx.png)
 
 </div>
 
@@ -73,14 +73,14 @@
 
 **Конфигурация MASTER сервера**
 
-![Конфигурация MASTER](screen/master.png)
+![Конфигурация MASTER](images/master.png)
 
 </td>
 <td width="50%">
 
 **Конфигурация BACKUP сервера**
 
-![Конфигурация BACKUP](screen/backup.png)
+![Конфигурация BACKUP](images/backup.png)
 
 </td>
 </tr>
@@ -90,7 +90,6 @@
 
 <div align="center">
 
-![Скрипт проверки состояния веб-сервера](screen/script.png)
+![Скрипт проверки состояния веб-сервера](images/script.png)
 
 </div>
-
